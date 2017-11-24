@@ -108,8 +108,8 @@
 
 			},
       
-   		{
-				"author": "The Gosa",
+   		       {
+			        "author": "The Gosa",
 				"url": "https://wallpaperscraft.com/image/space_planet_surface_shadow_46631_1920x1200.jpg",
 				"thumbUrl": "https://wallpaperscraft.com/image/space_planet_surface_shadow_46631_1920x1200.jpg",
 				"name": "Wallpaper16"
@@ -155,6 +155,13 @@
 				"url": "https://wallpaperscraft.com/image/light_rain_glass_drops_glare_76380_1920x1080.jpg",
 				"thumbUrl": "https://wallpaperscraft.com/image/light_rain_glass_drops_glare_76380_1920x1080.jpg",
 				"name": "Wallpaper22"
+
+			},
+			{
+				"author": "The Gosa",
+				"url": "https://raw.githubusercontent.com/thegosa/cloth/master/shadowy.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/thegosa/cloth/master/shadowy.jpg",
+				"name": "Wallpaper24"
 
 			},
 			{
